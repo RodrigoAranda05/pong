@@ -54,7 +54,7 @@
     {"id":{"name":"spr_olhos","path":"sprites/spr_olhos/spr_olhos.yy",},},
     {"id":{"name":"spr_raquete","path":"sprites/spr_raquete/spr_raquete.yy",},},
     {"id":{"name":"spr_rosto","path":"sprites/spr_rosto/spr_rosto.yy",},},
-    {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},},
+    {"id":{"name":"spr_teste","path":"sprites/spr_teste/spr_teste.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
